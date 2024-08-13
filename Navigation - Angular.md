@@ -1,18 +1,25 @@
 # General:
+
 - [[General]]
+
 # Components:
+
 - [[Components]]
 
 # Directives
+
 - [[Directives]]
 
 # Pipes
+
 - [[Pipes]]
 
 # Routing
+
 - [[Routing]]
 
 # RxJS
+
 - [[RxJS]]
 
 # Dependency Injection
@@ -33,7 +40,7 @@
 
 # HTTP
 
-- [[HTTP]] 
+- [[HTTP]]
 
 # Testing
 
